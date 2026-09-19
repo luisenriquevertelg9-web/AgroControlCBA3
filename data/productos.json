@@ -1,0 +1,11 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "",
+        "categoria": "",
+        "unidad": "",
+        "precio": 8.0,
+        "stock_minimo": 9,
+        "activo": false
+    }
+]
